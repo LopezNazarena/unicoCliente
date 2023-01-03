@@ -7,7 +7,7 @@ const Logueo = () => {
       {" "}
       <section>
         {" "}
-        <Form>
+        <Form className="mt-5">
           <Form.Group className="mb-3" controlId="formBasicusuario">
             <Form.Label className="fs-4">Usuario</Form.Label>
             <Form.Control type="usuario" />
