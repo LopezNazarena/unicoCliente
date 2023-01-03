@@ -12,7 +12,7 @@ const Menu = () => {
             alt="Logo Caja Popular de Ahorros"
           ></img>
         </Navbar.Brand>
-        <Nav className="col-sm-12 col-lg-1">
+        <Nav className="col-sm-12 col-lg-2">
           <NavDropdown title="Usuario" id="basic-nav-dropdown" className="fs-3 fw-bold">
             <NavDropdown.Item href="#action/3.1">
               Iniciar sesion
